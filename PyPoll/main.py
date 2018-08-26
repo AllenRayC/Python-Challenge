@@ -3,8 +3,7 @@ import os
 import csv
 
 # Set path for file
-#csvpath = os.path.join("..", "Resources", "election_data.csv")
-csvpath = r"C:\Users\Allen\Desktop\GitHub\python-challenge\PyPoll\Resources\election_data.csv"
+csvpath = os.path.join("..", "Resources", "election_data.csv")
 
 # Set variables
 total_votes = 0

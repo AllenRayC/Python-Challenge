@@ -4,7 +4,6 @@ import csv
 
 # Set path for file
 csvpath = os.path.join("..", "Resources", "budget_data.csv")
-#csvpath = r"C:\Users\Allen\Desktop\GitHub\python-challenge\PyBank\Resources\budget_data.csv"
 
 # Set variables
 total_months = 0
